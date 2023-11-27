@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Volunteer junk</string>
+    <string name="black_list">Черный список</string>
+    <string name="useful_link">Полезные приложения</string>
+</resources>
