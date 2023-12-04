@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Volunteer junk</string>
+    <string name="hello_title">Привет, волонтер!</string>
     <string name="black_list">Черный список</string>
-    <string name="useful_link">Полезные приложения</string>
+    <string name="useful_link">Приложения и ссылки</string>
+    <string name="enter_button">Войти</string>
+    <string name="user_name">Введи имя</string>
+    <string name="user_password">Введи пароль</string>
 </resources>
